@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "roboto";
+  src: url("fonts/RobotoRegular.ttf");
+}
+
+* {
+  font-family: "roboto";
+  font-size: 14px;
+}
+
+.navFont {
+  font-size: 13.5px;
+  font-weight: bold;
+  color: #d1d1d1;
+}
+
+.navBg {
+  background-color: #c8003c;
+}
+
+.navFont {
+  font-size: 13.5px;
+  font-weight: bold;
+  color: #d1d1d1;
+}
+
+.searchBg {
+  background-color: #e30047;
+}
+
+.inputSearch {
+  font-family: "roboto";
+  outline: none;
+  border: none;
+  color: black;
+  height: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.searchButton {
+  font-family: "roboto";
+  outline: none;
+  border: none;
+  background-color: black;
+  color: aliceblue;
+  height: 40px;
+}
+
+.carouselUnderBg {
+  background-color: #d6d6d6;
+  height: 50px;
+}
+
+.locationCardBg {
+  background-color: #e4e3e3;
+}
+
+.deliveryPinInput {
+  width: 100%;
+  height: 35px;
+  border-radius: 5px;
+  border-style: solid;
+  padding-left: 10px;
+  padding-right: 10px;
+  outline: none;
+}
+
+.subButton {
+  background-color: #333333;
+  border: none;
+  height: 35px;
+  color: #ffffff;
+}
+
+.nxtButton {
+  background-color: #f4f4f4;
+  border: none;
+  height: 35px;
+  color: #c0c0c0;
+}
+
+.categoryBg{
+  background-color: #ecebeb;
+  border-radius: 10px;
+}
+
+.handCursor{
+  cursor: pointer;
+}
+
+.owlImg{
+  height: 290px;
+}
+
+.offerDiv{
+  text-align: center;
+}
+
+.footerBg{
+  background-color: #c8003c;
+}
